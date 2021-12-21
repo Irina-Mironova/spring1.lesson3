@@ -37,7 +37,7 @@
       <artifactId>spring-core</artifactId>
       <version>${spring.version}</version>
     </dependency>
-    
+
     <!--Jetty-->
     <dependency>
       <groupId>org.eclipse.jetty</groupId>
